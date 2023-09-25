@@ -1,4 +1,4 @@
-花木成畦手自栽基本面.gitignore
+花木成畦手自栽
 sdfasdf;alsdf
 
 finished
