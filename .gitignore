@@ -1,0 +1,12 @@
+/*
+!.gitignore
+
+!/Hardware/
+!/System/
+!/User/
+!/Start/
+
+/test/*
+!/test/
+
+!/test/te/
